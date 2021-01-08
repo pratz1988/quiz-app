@@ -1,0 +1,67 @@
+.allQuizzesDiv {
+  background-color: white;
+  border: 3px solid #e0e0e0;
+  border-radius: 8px;
+  margin: 150px 450px 50px 500px;
+  padding-top: 50px;
+  width: 400px;
+  height: 300px;
+}
+
+.quizzesDiv {
+  color: blue;
+  margin-top: 7px;
+}
+
+.allQuizzesTitle {
+  margin-bottom: 45px;
+}
+
+.attemptQuizTitle {
+  margin-bottom: 15px;
+}
+
+h5 {
+  margin-top: -5px;
+}
+
+.quizPageDiv {
+  background-color: white;
+  border: 3px solid #e0e0e0;
+  border-radius: 8px;
+  margin: 50px 400px 20px 400px;
+  padding-top: 40px;
+  width: 600px;
+  height: 600px;
+}
+
+.questionsDiv {
+  text-align: left;
+  margin-left: 30px;
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+.radiobuttonsDiv {
+  text-align: left;
+  margin-left: 50px;
+  margin-top: 15px;
+}
+
+.correctSpan {
+  color: green;
+  font-weight: bold;
+}
+.inCorrectSpan {
+  color: red;
+}
+
+.formButton {
+  background-color: rgb(46, 132, 230);
+  color: white;
+  border-radius: 5px;
+  width: 100px;
+  height: 30px;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
